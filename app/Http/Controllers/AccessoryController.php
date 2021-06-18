@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\accessory;
+use App\Models\Accessory;
 use Illuminate\Http\Request;
 use Validator;
 
@@ -71,7 +71,7 @@ class accessoryController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\accessory  $accessory
+     * @param  \App\Models\Accessory  $accessory
      * @return \Illuminate\Http\Response
      */
     public function show($id)
@@ -90,10 +90,10 @@ class accessoryController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Models\accessory  $accessory
+     * @param  \App\Models\Accessory  $accessory
      * @return \Illuminate\Http\Response
      */
-    public function edit(accessory $accessory)
+    public function edit(Accessory $accessory)
     {
         //
     }
@@ -102,7 +102,7 @@ class accessoryController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\accessory  $accessory
+     * @param  \App\Models\Accessory  $accessory
      * @return \Illuminate\Http\Response
      */
     public function update(Request $request, $id)
@@ -126,7 +126,7 @@ class accessoryController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\accessory  $accessory
+     * @param  \App\Models\Accessory  $accessory
      * @return \Illuminate\Http\Response
      */
     public function destroy($id)
