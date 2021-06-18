@@ -1,0 +1,52 @@
+[
+    {
+        "store_name": "Torpedo 7 Dunedin",
+        "city": "Dunedin",
+        "manager": "Tim"
+    },
+    {
+        "store_name": "Evo Cycles Dunedin",
+        "city": "Dunedin",
+        "manager": "Phil"
+    },
+    {
+        "store_name": "Outside Sports",
+        "city": "Wanaka",
+        "manager": "Jimmy"
+    },
+    {
+        "store_name": "Crooked Spoke",
+        "city": "Queenstown",
+        "manager": "Guy"
+    },
+    {
+        "store_name": "Cycle Science",
+        "city": "Wellington",
+        "manager": "Johnny"
+    },
+    {
+        "store_name": "Evo Cycles Nelson",
+        "city": "Nelson",
+        "manager": "Joel"
+    },
+    {
+        "store_name": "Evo Cycles Christchurch",
+        "city": "Christchurch",
+        "manager": "Nick"
+    },
+    {
+        "store_name": "Deals on wheels",
+        "city": "Auckland",
+        "manager": "Tommy"
+    },
+    {
+        "store_name": "Cycle world",
+        "city": "Dunedin",
+        "manager": "Steve"
+    },
+    {
+        "store_name": "Off The Chain",
+        "city": "Auckland",
+        "manager": "Hayden"
+    }
+]

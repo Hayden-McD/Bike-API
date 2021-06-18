@@ -1,0 +1,79 @@
+[
+    {
+        "make": "Trek",
+        "model": "Remedy 9.8",
+        "category": "Enduro",
+        "store_id": "4",
+        "stock": "2"
+    },
+    {
+        "make": "Trek",
+        "model": "Remedy 9.7",
+        "category": "Enduro",
+        "store_id": "3",
+        "stock": "3"
+    },
+    {
+        "make": "Trek",
+        "model": "Remedy 8",
+        "category": "Enduro",
+        "store_id": "2",
+        "stock": "1"
+    },
+    {
+        "make": "Trek",
+        "model": "Remedy 8",
+        "category": "Enduro",
+        "store_id": "1",
+        "stock": "5"
+    },
+    {
+        "make": "Trek",
+        "model": "Remedy 7",
+        "category": "Enduro",
+        "store_id": "1",
+        "stock": "1"
+    },
+    {
+        "make": "Specialized",
+        "model": "Stumpjumper Pro",
+        "category": "Trail",
+        "store_id": "3",
+        "stock": "0"
+    },
+    {
+        "make": "Specialized",
+        "model": "Stumpjumper Evo",
+        "category": "Trail",
+        "store_id": "2",
+        "stock": "2"
+    },
+    {
+        "make": "Giant",
+        "model": "Reign sx",
+        "category": "Enduro",
+        "store_id": "4",
+        "stock": "3"
+    },
+    {
+        "make": "Giant",
+        "model": "Reign 29",
+        "category": "Enduro",
+        "store_id": "1",
+        "stock": "5"
+    },
+    {
+        "make": "Giant",
+        "model": "Reign Advanced Pro",
+        "category": "Enduro",
+        "store_id": "2",
+        "stock": "2"
+    },
+    {
+        "make": "Trek",
+        "model": "Remedy 8",
+        "category": "Enduro",
+        "store_id": "2",
+        "stock": "0"
+    }
+]

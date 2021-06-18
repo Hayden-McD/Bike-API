@@ -1,0 +1,72 @@
+[
+    {
+        "helmet": "Fox helmet",
+        "pedals": "Oneup pro",
+        "gloves": "100% gloves",
+        "knee_pads": "n/a",
+        "store_id": "4"
+    },
+    {
+        "helmet": "n/a",
+        "pedals": "Funn Python",
+        "gloves": "Fox gloves",
+        "knee_pads": "n/a",
+        "store_id": "3"
+    },
+    {
+        "helmet": "Bell helmet",
+        "pedals": "n/a",
+        "gloves": "n/a",
+        "knee_pads": "n/a",
+        "store_id": "2"
+    },
+    {
+        "helmet": "n/a",
+        "pedals": "n/a",
+        "gloves": "Fox gloves",
+        "knee_pads": "Fox Knee Pads",
+        "store_id": "1"
+    },
+    {
+        "helmet": "Giro helmet",
+        "pedals": "Giant pedals",
+        "gloves": "leatt",
+        "knee_pads": "leatt",
+        "store_id": "1"
+    },
+    {
+        "helmet": "n/a",
+        "pedals": "Funn Pedals",
+        "gloves": "Black gloves",
+        "knee_pads": "Fox knee pads",
+        "store_id": "3"
+    },
+    {
+        "helmet": "Giant helmet",
+        "pedals": "Giant pedals",
+        "gloves": "100% gloves",
+        "knee_pads": "n/a",
+        "store_id": "2"
+    },
+    {
+        "helmet": "Trek helmet",
+        "pedals": "n/a",
+        "gloves": "100% gloves",
+        "knee_pads": "n/a",
+        "store_id": "4"
+    },
+    {
+        "helmet": "n/a",
+        "pedals": "n/a",
+        "gloves": "n/a",
+        "knee_pads": "leatt",
+        "store_id": "1"
+    },
+    {
+        "helmet": "Kalebs helmet",
+        "pedals": "Kalebs pedals",
+        "gloves": "Kalebs gloves",
+        "knee_pads": "Sams knee pads",
+        "store_id": "2"
+    }
+]
