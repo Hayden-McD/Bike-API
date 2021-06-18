@@ -2,11 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\bike;
+use App\Models\Bike;
 use Illuminate\Http\Request;
 use Validator;
 
-class bikeController extends Controller
+class BikeController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -62,7 +62,7 @@ class bikeController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\bike  $bike
+     * @param  \App\Models\Bike  $bike
      * @return \Illuminate\Http\Response
      */
     public function show($id)
@@ -81,10 +81,10 @@ class bikeController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Models\bike  $bike
+     * @param  \App\Models\Bike  $bike
      * @return \Illuminate\Http\Response
      */
-    public function edit(bike $bike)
+    public function edit(Bike $bike)
     {
         //
     }
@@ -93,7 +93,7 @@ class bikeController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\bike  $bike
+     * @param  \App\Models\Bike  $bike
      * @return \Illuminate\Http\Response
      */
     public function update(Request $request, $id)
@@ -116,7 +116,7 @@ class bikeController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\bike  $bike
+     * @param  \App\Models\Bike  $bike
      * @return \Illuminate\Http\Response
      */
     public function destroy($id)
